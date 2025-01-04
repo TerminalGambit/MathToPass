@@ -26,5 +26,28 @@ MathToPass is a Python script that helps students calculate the minimum score ne
 ### Running the Script
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/TerminalGambit/MathToPass.git
+```bash
+git clone https://github.com/TerminalGambit/MathToPass.git
+```
+2.	Navigate to the project directory:
+cd MathToPass
+
+3.	Run the main.py script:
+python main.py
+
+### Example Usage
+
+The script will prompt you to input scores and weights for each course’s assessments. It will then calculate the minimum score required in the final exam for you to pass the course.
+
+### Notes
+	•	For courses where the project or certain grades are not yet available, you can input an estimated score and adjust it later if necessary.
+
+### Contributions
+
+Contributions are welcome! Feel free to submit a pull request or raise an issue for any improvements or additional features.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Have fun calculating your way to success!
